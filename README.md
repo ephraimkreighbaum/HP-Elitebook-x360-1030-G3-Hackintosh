@@ -1,6 +1,8 @@
 # HP-Elitebook-x360-1030-G3-Hackintosh
 ## My EFI folder
 
+# ALWAYS USE YOUR OWN SSDTs !! CREATE THEM USING [SSDTTime](https://github.com/corpnewt/SSDTTime) !!
+
 ## Working:
 - Wifi
 - Touchscreen
